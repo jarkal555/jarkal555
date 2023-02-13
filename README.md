@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=I+am+Jacob+Genkin.;)](https://git.io/typing-svg)
+
 I work as a software engineer who is more focused on frontend engineering. I have 8+ years of experience with front-end experience and a passion for responsive website design. I am skilled in Web Development using JavaScript as a primary language and using its frameworks React specifically.
 
 ---
